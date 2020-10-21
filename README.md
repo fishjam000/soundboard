@@ -11,3 +11,15 @@ Starter template for Soundboard deployed via Netlify.
 5. Share Netlify URL. 
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/soundboard)
+
+# CREDITS
+Sounds from SoundBible.com. (Creative Commons Attribution 3.0)
+Water drop sounds by Mike Koenig.
+
+Links:
+
+Water Drop Sound
+http://soundbible.com/1126-Water-Drop.html
+
+Water Drop Sound High Sound
+http://soundbible.com/1232-Water-Drop-Sound-High.html
