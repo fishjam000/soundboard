@@ -14,12 +14,33 @@ Starter template for Soundboard deployed via Netlify.
 
 # CREDITS
 Sounds from SoundBible.com. (Creative Commons Attribution 3.0)
-Water drop sounds by Mike Koenig.
 
 Links:
 
-Water Drop Sound
+Large Bubble Sound (by snottyboy)
+http://soundbible.com/1345-Large-Bubble.html
+
+Water Drop Low Sound (by Mike Koenig)
+http://soundbible.com/1139-Water-Drop-Low.html
+
+Water Drop Sound (by Mike Koenig)
 http://soundbible.com/1126-Water-Drop.html
 
-Water Drop Sound High Sound
+Water Drop Sound High Sound (by Mike Koenig)
 http://soundbible.com/1232-Water-Drop-Sound-High.html
+
+
+Single Water Droplet Sound (by Mike Koenig)
+http://soundbible.com/384-Single-Water-Droplet.html
+
+Bubbling Sound (by Mike Koenig)
+http://soundbible.com/1148-Bubbling.html
+
+Bubbles Sound (by Mike Koenig)
+http://soundbible.com/1137-Bubbles.html
+
+Mario Jumping Sound (by Mike Koenig)
+http://soundbible.com/1601-Mario-Jumping.html
+
+Blop Sound (by Mark DiAngelo)
+http://soundbible.com/2067-Blop.html
