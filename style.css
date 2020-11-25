@@ -65,7 +65,7 @@ kbd {
   width: 10rem;
   text-align: center;
   outline: 2.725px solid navy;
-  background: rgba(255, 255, 255, .725);
+  background: rgba(255, 255, 255, .8);
   
   /* Change mouse pointer */
   cursor:pointer;
