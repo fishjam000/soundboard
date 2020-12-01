@@ -4,12 +4,12 @@
 /* Set Fonts and Resets */
 body,
 html {
-  background: mintcream;
+  background: #edffff;
   margin: 0;
   overflow-x: hidden;
   padding: 0;
   font-family: 'Varela Round', sans-serif;
-  color: navy;
+  color: #00427a;
 
   /* background */
   background-image: url(./images/rain_pattern.png);
@@ -64,8 +64,9 @@ kbd {
   /* Styling of keys */
   width: 10rem;
   text-align: center;
-  outline: 2.725px solid navy;
-  background: rgba(255, 255, 255, .8);
+  border: 3.4px solid #00427a;
+  border-radius: 15px;
+  background: rgb(247, 250, 250);
   
   /* Change mouse pointer */
   cursor:pointer;
@@ -75,7 +76,7 @@ kbd {
           user-select: none;
   
   /* Call Transition */
-  transition: all 0.07s ease;
+  transition: all 0.08s ease;
 }
 
 
@@ -84,5 +85,6 @@ kbd {
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.04);
-  background: white;
+  background: rgb(247, 250, 250);
+  ;
 }
